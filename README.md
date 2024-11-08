@@ -4,7 +4,7 @@
 
 ***
 
-The code in this repository implements AEMONAS, a method accepted by Complex & Intelligent Systems (CAIS). This is the first neural architecture search approach applied to the task of osteoporosis diagnosis.
+The code in this repository implements AEMONAS, a method accepted by Complex & Intelligent Systems (CAIS). <font color='red'>This is the first neural architecture search approach applied to the task of osteoporosis diagnosis.</font>
 
 #### Introduction
 In recent years, neural architecture search (NAS) has achieved unprecedented development because of its ability to automatically achieve high-performance neural networks in various tasks. Among these, the evolutionary neural architecture search (ENAS) has impressed the researchers due to the excellent heuristic exploration capability. 
